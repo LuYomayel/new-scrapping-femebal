@@ -53,6 +53,9 @@ type JugadorFairPlay = {
   azules: number
   dosmin: number
   puntajeTotal: number
+  division: string
+  genero: string
+  categoria: string
 }
 
 type Torneo = {
